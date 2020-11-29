@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_one"
+        android:title="Lưu vào danh sách xem sau" />
+    <item
+        android:id="@+id/menu_two"
+        android:title="Lưu vào danh sách phát" />
+    <item
+        android:id="@+id/menu_three"
+        android:title="Chia sẻ" />
+    <item
+        android:id="@+id/menu_four"
+        android:title="Không quan tâm" />
+    <item
+        android:id="@+id/menu_five"
+        android:title="Không đề xuất kênh này" />
+    <item
+        android:id="@+id/menu_six"
+        android:title="Báo vi phạm" />
+</menu>
